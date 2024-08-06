@@ -1,0 +1,2 @@
+x = 'Ali'
+print(x)
