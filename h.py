@@ -1,2 +1,2 @@
 x = 'Ali'
-print(x)
+print(x)  # no
